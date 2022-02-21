@@ -13,4 +13,4 @@
      python3 questao1.py
 
 #### 5. Você verá a solucão no terminal da sua IDE.
-#:computer:
+:computer:
